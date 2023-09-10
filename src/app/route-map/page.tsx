@@ -3,8 +3,8 @@ export default function Home() {
     <div>
       作成中!
       <div>
-        <img src="/img/スライド1.png" />
-        <img src="/img/スライド2.png" />
+        <img src="/img/rosenzu/1.png" />
+        <img src="/img/rosenzu/2.png" />
       </div>
     </div>
   );
